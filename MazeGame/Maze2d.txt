@@ -1,0 +1,4 @@
+Rows=10
+Columns=20
+//every array element is a square which can be either a round or wall
+number of enemies =5

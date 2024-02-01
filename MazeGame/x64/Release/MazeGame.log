@@ -1,0 +1,159 @@
+﻿  Bomb.cpp
+  Enemy.cpp
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(10,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(10,39): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(32,67): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(32,60): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(32,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(39,66): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(39,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(39,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(44,68): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(44,61): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(44,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(50,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Enemy.cpp(50,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  MazeGame.cpp
+C:\Users\Aya Atef\graphics projects\MazeGame\MazeGame.cpp(39,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\MazeGame.cpp(40,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\MazeGame.cpp(69,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Player.cpp
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(7,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(7,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(7,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(21,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(23,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(25,63): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(25,56): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(25,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(29,64): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(29,57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(29,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(33,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(33,52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(37,62): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(37,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Aya Atef\graphics projects\MazeGame\Player.cpp(37,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  mazee.cpp
+  Generating code
+  0 of 103 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MazeGame.vcxproj -> C:\Users\Aya Atef\graphics projects\MazeGame\x64\Release\MazeGame.exe
